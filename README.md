@@ -10,7 +10,7 @@ Novela-2014
 * 1x support de pile
 * 1x pile bouton 2032
 * 1x interrupteur
-* 1x résistance xxxOhms
+* 1x résistance 330 Ohms
 * 1x moteur vibreur
 * 1x brosse à dent
 * 1x scotch double face (env 3cm)
