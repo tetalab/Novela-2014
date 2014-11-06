@@ -3,7 +3,7 @@ Novela-2014
 
 # Instructions Bristlebot
 
-## Pièces nécessaire
+## Pièces nécessaires
 
 * 1x PCB
 * 2x leds
@@ -13,7 +13,7 @@ Novela-2014
 * 1x résistance xxxOhms
 * 1x moteur vibreur
 * 1x brosse à dent
-* 1x scotch double face
+* 1x scotch double face (env 3cm)
 * 2-6x segments de 4-8cm cable réseau
 
 ## Pas à pas
@@ -24,7 +24,7 @@ Novela-2014
 1. souder l'interrupteur
 1. souder le moteur
 1. fixer le moteur au PCB avec le pistolet à colle
-1. souder les leds, la pate la plus courte au niveau du symbole (-) sous le PCB
+1. souder les leds, la patte la plus courte au niveau du symbole (-) sous le PCB
 1. mettre du scotch double-face sous le PCB
 1. casser une brosse à dent et fixer la partie poilue sous le scotch double-face
 1. dénuder les morceaux de cables réseaux
