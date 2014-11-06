@@ -3,6 +3,10 @@ Novela-2014
 
 # Instructions Bristlebot
 
+![Schematics](./Eagle files/bbot_schematics.png)
+
+![Bare PCB](./bbot - bare pcb.png)
+
 ## Pièces nécessaires
 
 * 1x PCB
