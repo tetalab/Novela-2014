@@ -5,7 +5,7 @@ Novela-2014
 
 ![Schematics](./Eagle files/bbot_schematics.png)
 
-![Bare PCB](./bbot - bare pcb.png)
+![Bare PCB](./bbot - bare pcb.jpg)
 
 ## Pièces nécessaires
 
