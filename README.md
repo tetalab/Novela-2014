@@ -28,4 +28,4 @@ Novela-2014
 1. mettre du scotch double-face sous le PCB
 1. casser une brosse à dent et fixer la partie poilue sous le scotch double-face
 1. dénuder les morceaux de cables réseaux
-1. souder ces segments de cable réseau au niveau des pates
+1. souder ces segments de cable réseau au niveau des pattes
